@@ -1,9 +1,5 @@
 # samurai-way-to-python
-<center>Centered text</center>
-<dt>right</dt>
-        <dt>right</dt>
-        <dd>Align the elements to the right.</dd>
-<dt>Beautiful is better than ugly.
+Beautiful is better than ugly.
 
 Explicit is better than implicit.
 
@@ -39,7 +35,7 @@ If the implementation is hard to explain, it's a bad idea.
 
 If the implementation is easy to explain, it may be a good idea.
 
-Namespaces are one honking great idea—let's do more of those!<dt>
+Namespaces are one honking great idea—let's do more of those!
 
  - install conda for python 3 on you machine
  https://www.continuum.io/downloads#windows
