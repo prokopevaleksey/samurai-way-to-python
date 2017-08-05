@@ -1,8 +1,8 @@
 # samurai way to python
 
-*Beautiful is better than ugly.* *
+*Beautiful is better than ugly.*
 
-*Explicit is better than implicit.* *
+*Explicit is better than implicit.*
 
 *Simple is better than complex.*
 
