@@ -1,4 +1,4 @@
-# samurai way to python
+# SAMURAI WAY TO PYTHON
 
 *Beautiful is better than ugly.*
 
@@ -38,6 +38,7 @@
 
 *Namespaces are one honking great idea—let's do more of those!*
 
+# GET STARTED
  - install conda for python 3 on you machine
  https://www.continuum.io/downloads#windows
  
