@@ -1,4 +1,5 @@
 # samurai-way-to-python
+<center>Centered text</center>
 <dt>right</dt>
         <dt>right</dt>
         <dd>Align the elements to the right.</dd>
