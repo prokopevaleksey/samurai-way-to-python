@@ -39,7 +39,6 @@
 *Namespaces are one honking great idea—let's do more of those!*
 
 # GET STARTED
- - install conda for python 3 on you machine
- https://www.continuum.io/downloads#windows
- 
+ - install miniconda for python 3 on you machine
+https://conda.io/miniconda.html 
  
