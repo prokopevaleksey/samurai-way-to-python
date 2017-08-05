@@ -40,5 +40,25 @@
 
 # GET STARTED
  - install miniconda for python 3 on you machine
-https://conda.io/miniconda.html 
+> https://conda.io/miniconda.html 
+
+ - create new enviromnent 
+> conda create -n <ENVIROMENT_NAME>
+
+ - activate the environment 
+> activate <ENVIROMENT_NAME>
+
+- install jupyter notebook
+> conda install ipython notebook
  
+- set up the notebook
+> python -m ipykernel install --user --name ENVNAME --display-name "<ENVIROMENT_NAME>"
+
+- launch notebook
+> jupyter notebook
+
+It should open a browser page with the jupyter interface. 
+
+- click "New" button on the top-right. It should display a list with <ENVIRONMENT_NAME>. Click on it.
+
+Then you should see a jupyter interface.
