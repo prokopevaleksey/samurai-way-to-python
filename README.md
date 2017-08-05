@@ -1,7 +1,8 @@
 # samurai way to python
-* *Beautiful is better than ugly.
-Explicit is better than implicit.
-Simple is better than complex.
+
+* *Beautiful is better than ugly.\n
+Explicit is better than implicit.\n
+Simple is better than complex.\n
 Complex is better than complicated.
 Flat is better than nested.
 Sparse is better than dense.
