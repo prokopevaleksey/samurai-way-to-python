@@ -1,5 +1,7 @@
 # samurai-way-to-python
 <dt>right</dt>
+        <dt>right</dt>
+        <dd>Align the elements to the right.</dd>
 <dt>Beautiful is better than ugly.
 
 Explicit is better than implicit.
